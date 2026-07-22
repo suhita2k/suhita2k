@@ -216,9 +216,9 @@ $\color{#F472B6}{\textsf{──────────────────�
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhita2k&show_icons=true&theme=transparent&title_color=C8B6FF&text_color=7952B3&icon_color=FFB6C1&hide_border=true&bg_color=FFFFFF00" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhita2k&show_icons=true&theme=transparent&title_color=C8B6FF&text_color=7952B3&icon_color=FFB6C1&hide_border=true" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhita2k&theme=transparent&fire=FFB6C1&ring=C8B6FF&currStreakLabel=7952B3&currStreakNum=C8B6FF&sideLabels=7952B3&sideNums=C8B6FF&dates=7952B3&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=suhita2k&theme=transparent&fire=FFB6C1&ring=C8B6FF&currStreakLabel=7952B3&currStreakNum=C8B6FF&sideLabels=7952B3&sideNums=C8B6FF&dates=7952B3&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
