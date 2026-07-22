@@ -38,30 +38,40 @@ Note: To use your custom uploaded portrait with AI background as requested, uplo
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-  <p><b>Programming</b></p>
-  <img src="https://img.shields.io/badge/Java-FFD6E8?style=for-the-badge&logo=java&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-C8B6FF?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-E0B0FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black" />
+<hr>
 
-  <br><br>
-  <p><b>Frontend & Backend</b></p>
-  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-E0B0FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-FFD6E8?style=for-the-badge&logo=node.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFB6C1?style=for-the-badge&logo=firebase&logoColor=white" />
+### 🔗 Programming
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,py,c,js" />
+</a>
 
-  <br><br>
-  <p><b>Tools & Databases</b></p>
-  <img src="https://img.shields.io/badge/MySQL-C8B6FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E0B0FF?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-FFD6E8?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-C8B6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</div>
+<br>
+
+### 🔗 Frontend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</a>
+
+<br>
+
+### 🔗 Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</a>
+
+<br>
+
+### 🔗 Database
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<br>
+
+### 🔗 Tools & IDEs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,figma,vercel" />
+</a>
 
 <br>
 
