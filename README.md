@@ -2,26 +2,26 @@
 
 <div align="center">
 
-<!-- Hero Banner 
-Note: To use your custom uploaded portrait with AI background as requested, upload the image to your repository and replace this 'src' link with the raw image URL. The placeholder below uses a premium dynamic gradient matching your palette. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,FFD6E8,C8B6FF,FFB6C1,E0B0FF&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Suhita%20D&fontSize=50&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=55&descAlign=62&fontColor=4A4A4A&descSize=20" width="100%" alt="Hero Banner" />
-
-<br>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=A078E6&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Full+Stack+Development;Problem+Solver" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6C5CE7,A29BFE,FD79A8,E84393&height=260&section=header&text=Suhita%20D&fontSize=80&fontAlignY=40&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=65&descAlign=50&fontColor=ffffff&descSize=20" width="100%" alt="Hero Banner" />
 
 <br><br>
 
-<!-- Social & Contact Buttons -->
-<a href="https://github.com/suhita2k"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=4A4A4A" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/suhita-d-81965336a"><img src="https://img.shields.io/badge/LinkedIn-C8B6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:suhidharma@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+🚀 <br>
+Building AI solutions that make $\color{#9D76C1}{\textbf{Education}}$, $\color{#4CAF50}{\textbf{Agriculture}}$, $\color{#2196F3}{\textbf{Healthcare}}$ and $\color{#E91E63}{\textbf{Finance}}$ smarter.
 
 <br><br>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=suhita2k&color=E0B0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<a href="https://github.com/suhita2k"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="https://linkedin.com/in/suhita-d-81965336a"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:suhidharma@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=suhita2k&color=F472B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br><br>
+
+$\color{#F472B6}{\textsf{───────────────────── ✦ ✨ ✦ ─────────────────────}}$
 
 </div>
 
