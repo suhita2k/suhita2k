@@ -183,54 +183,14 @@ open_to:
 
 ## 💼 Experience Timeline
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="10%" align="center"><h2>🎓</h2></td>
-    <td>
-      <b>Google Student Ambassador</b><br>
-      $\color{#C8B6FF}{\textsf{2026}}$
-    </td>
-  </tr>
-  <tr>
-    <td width="10%" align="center"><h2>💼</h2></td>
-    <td>
-      <b>Naukri Student Ambassador</b><br>
-      $\color{#C8B6FF}{\textsf{2026}}$
-    </td>
-  </tr>
-  <tr>
-    <td width="10%" align="center"><h2>🏭</h2></td>
-    <td>
-      <b>Industrial Engineering Intern</b><br>
-      <i>Tamil Nadu Newsprint and Papers Limited</i><br>
-      $\color{#C8B6FF}{\textsf{2026}}$
-    </td>
-  </tr>
-  <tr>
-    <td width="10%" align="center"><h2>💻</h2></td>
-    <td>
-      <b>Web Developer Intern</b><br>
-      <i>CodSoft</i><br>
-      $\color{#C8B6FF}{\textsf{2025}}$
-    </td>
-  </tr>
-  <tr>
-    <td width="10%" align="center"><h2>🎨</h2></td>
-    <td>
-      <b>Front-End Developer Intern</b><br>
-      <i>CodeAlpha</i><br>
-      $\color{#C8B6FF}{\textsf{2025}}$
-    </td>
-  </tr>
-  <tr>
-    <td width="10%" align="center"><h2>🌐</h2></td>
-    <td>
-      <b>Virtual Intern</b><br>
-      <i>Infosys Springboard</i><br>
-      $\color{#C8B6FF}{\textsf{2025}}$
-    </td>
-  </tr>
-</table>
+| Timeline | Responsibilities & Achievements |
+|-----------|---------------------------------|
+| **🎓 Google Student Ambassador (2026 – Present)** | • Represent Google technologies on campus.<br>• Organize AI workshops and developer events.<br>• Mentor students in Google AI, Cloud and developer tools.<br>• Build and grow the campus developer community. |
+| **💼 Naukri Student Ambassador (2026 – Present)** | • Promote career readiness and placement initiatives.<br>• Conduct awareness sessions for internships and jobs.<br>• Connect students with career opportunities.<br>• Organize engagement activities on campus. |
+| **🏭 Industrial Engineering Intern**<br>*Tamil Nadu Newsprint and Papers Limited (TNPL)*<br>**2026** | • Worked on production planning and process optimization.<br>• Studied manufacturing workflows and industrial operations.<br>• Improved efficiency through engineering analysis.<br>• Gained practical exposure to industrial engineering practices. |
+| **💻 Web Development Intern**<br>*CodSoft*<br>**2025** | • Built responsive web applications using HTML, CSS and JavaScript.<br>• Developed Job Board and Online Quiz projects.<br>• Improved UI/UX and front-end performance.<br>• Applied version control using Git & GitHub. |
+| **🎨 Front-End Developer Intern**<br>*CodeAlpha*<br>**2025** | • Designed responsive user interfaces.<br>• Developed interactive web pages.<br>• Worked with HTML, CSS and JavaScript.<br>• Focused on clean and user-friendly design. |
+| **🌐 Virtual Intern**<br>*Infosys Springboard*<br>**2025** | • Completed software development and Python training.<br>• Built mini projects and strengthened programming skills.<br>• Learned problem-solving and software engineering fundamentals.<br>• Explored AI and emerging technologies. |
 
 <br>
 
