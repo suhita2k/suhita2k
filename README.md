@@ -36,6 +36,27 @@ $\color{#F472B6}{\textsf{──────────────────�
 
 <br>
 
+## 🔗 Current Focus
+
+```yaml
+learning:
+  - Generative AI
+  - Machine Learning
+  - React.js
+
+career_goal:
+  - Build scalable AI-powered applications
+  - Contribute to impactful real-world solutions
+  - Grow as an AI & Full Stack Software Engineer
+
+open_to:
+  - Software Engineering Internships
+  - Open Source Contributions
+  - Hackathons
+```
+
+<br>
+
 ## 🛠️ Tech Stack
 
 <hr>
@@ -72,6 +93,26 @@ $\color{#F472B6}{\textsf{──────────────────�
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,figma,vercel" />
 </a>
+
+<br>
+
+### 🔗 Embedded
+
+**Arduino • ESP32 • Embedded C • Sensors • Servo Control • IoT**
+
+<br>
+
+### 🔗 AI Expertise
+
+| Domain | Experience |
+| :--- | :---: |
+| **AI Agents** | ⭐⭐⭐⭐☆ |
+| **LLM Applications** | ⭐⭐⭐⭐☆ |
+| **Prompt Engineering** | ⭐⭐⭐⭐⭐ |
+| **Automation** | ⭐⭐⭐⭐☆ |
+| **Full Stack AI Apps** | ⭐⭐⭐⭐☆ |
+| **Embedded AI** | ⭐⭐⭐☆☆ |
+| **Cloud Integration** | ⭐⭐⭐⭐☆ |
 
 <br>
 
@@ -144,7 +185,7 @@ $\color{#F472B6}{\textsf{──────────────────�
     <td width="10%" align="center"><h2>💼</h2></td>
     <td>
       <b>Naukri Student Ambassador</b><br>
-      $\color{#C8B6FF}{\textsf{2026}}$
+      $\color{#C8B6FF}{\textsf{2025}}$
     </td>
   </tr>
   <tr>
@@ -237,6 +278,14 @@ $\color{#F472B6}{\textsf{──────────────────�
   <img src="https://ghchart.rshah.org/FFB6C1/suhita2k" alt="GitHub Contribution Graph" width="80%" />
 </div>
 
+<br>
+
+## 🔗 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhita2k&bg_color=1F222E&color=C8B6FF&line=FFB6C1&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Contribution Graph" />
+</div>
+
 <br><br>
 
 <hr style="border: 1px solid #FFD6E8;">
@@ -247,4 +296,3 @@ $\color{#F472B6}{\textsf{──────────────────�
   <br><br>
   <b>Made with ❤️ by Suhita D</b>
 </div>
-
