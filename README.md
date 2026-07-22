@@ -126,7 +126,7 @@ open_to:
   <tr>
     <td width="50%" valign="top">
       <blockquote>
-        <h3>🌱 HarvestIQ</h3>
+        <h3>🌱 Crop care AI</h3>
         <b>AI-powered Smart Agriculture Platform</b><br>
         <sub>Helping farmers with crop recommendations, disease detection, weather forecasting, irrigation planning and farm analytics.</sub><br><br>
         <kbd>Python</kbd> <kbd>Machine Learning</kbd> <kbd>Firebase</kbd> <kbd>Web</kbd>
