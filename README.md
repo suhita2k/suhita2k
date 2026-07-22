@@ -33,12 +33,9 @@
 
 <br>
 
-## 🌸 About Me
+## About Me
 
-> 🎓 **Electronics & Communication Engineering Student** at **V.S.B Engineering College**  
-> 💖 **Passionate about** Artificial Intelligence, Machine Learning, Generative AI and Full Stack Development.  
-> 🚀 **Building intelligent AI solutions** for Education, Agriculture, Finance and Healthcare.  
-> 🌱 **Currently Learning:** Generative AI, Cloud Computing, React, Machine Learning, System Design
+Driven by curiosity and innovation, I specialize in **Artificial Intelligence**, **Generative AI**, and **Full Stack Development**. I enjoy creating impactful projects, exploring emerging technologies, and continuously improving my technical and problem-solving skills.
 
 <br>
 
@@ -83,7 +80,7 @@ open_to:
 
 ### 🔗 Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,py" />
 </a>
 
 <br>
@@ -138,18 +135,7 @@ open_to:
       <b>Tech:</b> <code>Python</code> <code>AI & ML</code> <code>Firebase</code>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ EquipTrack AI</h3>
-      <p>Predictive Maintenance using AI to forecast equipment failures and optimize maintenance schedules.</p>
-      <b>Tech:</b> <code>Python</code> <code>AI</code> <code>Data Science</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ InsureOne AI</h3>
-      <p>AI Insurance Assistant streamlining claims processing and providing personalized policy recommendations.</p>
-      <b>Tech:</b> <code>GenAI</code> <code>Python</code> <code>NLP</code>
-    </td>
-  </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>📊 Life Event Advisor</h3>
