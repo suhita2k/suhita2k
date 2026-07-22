@@ -2,12 +2,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6C5CE7,A29BFE,FD79A8,E84393&height=260&section=header&text=Suhita%20D&fontSize=80&fontAlignY=40&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=65&descAlign=50&fontColor=ffffff&descSize=20" width="100%" alt="Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A29BFE&height=220&section=header&text=Suhita%20D&fontSize=80&fontAlignY=40&fontColor=ffffff&font=handwritten" width="100%" alt="Hero Banner" />
 
 <br><br>
 
-🚀 <br>
-Building AI solutions that make $\color{#9D76C1}{\textbf{Education}}$, $\color{#4CAF50}{\textbf{Agriculture}}$, $\color{#2196F3}{\textbf{Healthcare}}$ and $\color{#E91E63}{\textbf{Finance}}$ smarter.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Google+Student+Ambassador;Naukri+Student+Ambassador;AI+%26+Full+Stack+Developer" alt="Typing Animation" />
+
+<br>
+
+<img src="https://img.shields.io/badge/GOOGLE_STUDENT_AMBASSADOR_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Student Ambassador" />
+<br>
+<img src="https://img.shields.io/badge/NAUKRI_STUDENT_AMBASSADOR_2026-0077B5?style=for-the-badge" alt="Naukri Student Ambassador" />
+<br>
+<img src="https://img.shields.io/badge/B.E._ELECTRONICS_&_COMMUNICATION_ENGINEERING-7B68EE?style=for-the-badge" alt="B.E. ECE" />
+<br>
+<img src="https://img.shields.io/badge/GENERATIVE_AI_ENTHUSIAST-8A2BE2?style=for-the-badge" alt="Gen AI" />
+<img src="https://img.shields.io/badge/AI_&_FULL_STACK_DEVELOPER-23272F?style=for-the-badge" alt="AI & Full Stack Developer" />
 
 <br><br>
 
@@ -15,13 +25,9 @@ Building AI solutions that make $\color{#9D76C1}{\textbf{Education}}$, $\color{#
 &nbsp;
 <a href="https://linkedin.com/in/suhita-d-81965336a"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:suhidharma@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=suhita2k&color=F472B6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br><br>
-
-$\color{#F472B6}{\textsf{───────────────────── ✦ ✨ ✦ ─────────────────────}}$
+<a href="mailto:suhidharma@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<br>
+<img src="https://komarev.com/ghpvc/?username=suhita2k&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
