@@ -83,14 +83,14 @@ open_to:
 
 ### 🔗 Backend
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </a>
 
 <br>
 
 ### 🔗 Database
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </a>
 
 <br>
@@ -111,14 +111,15 @@ open_to:
 ### 🔗 AI Expertise
 
 | Domain | Experience |
-| :--- | :---: |
-| **AI Agents** | ⭐⭐⭐⭐☆ |
-| **LLM Applications** | ⭐⭐⭐⭐☆ |
-| **Prompt Engineering** | ⭐⭐⭐⭐⭐ |
-| **Automation** | ⭐⭐⭐⭐☆ |
-| **Full Stack AI Apps** | ⭐⭐⭐⭐☆ |
-| **Embedded AI** | ⭐⭐⭐☆☆ |
-| **Cloud Integration** | ⭐⭐⭐⭐☆ |
+|---------|------------|
+| Generative AI | ⭐⭐⭐⭐⭐ |
+| Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| Machine Learning | ⭐⭐⭐⭐☆ |
+| AI Agents | ⭐⭐⭐⭐☆ |
+| LLM Applications | ⭐⭐⭐⭐☆ |
+| Full Stack AI Applications | ⭐⭐⭐⭐☆ |
+| Data Analysis & Visualization | ⭐⭐⭐⭐☆ |
+| Cloud & Firebase Integration | ⭐⭐⭐☆☆ |
 
 <br>
 
