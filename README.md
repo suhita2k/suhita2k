@@ -1,53 +1,216 @@
-<!-- Hero Section -->
+<!-- Replace 'suhitad' with your actual GitHub username throughout the code if different -->
+
 <div align="center">
 
-<!-- Custom Hero Banner with Glassmorphism -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=280&section=header&text=Hi%20👋%20I'm%20Suhita%20D&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=55&descSize=18"/>
+<!-- Hero Banner 
+Note: To use your custom uploaded portrait with AI background as requested, upload the image to your repository and replace this 'src' link with the raw image URL. The placeholder below uses a premium dynamic gradient matching your palette. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,FFD6E8,C8B6FF,FFB6C1,E0B0FF&height=250&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Suhita%20D&fontSize=50&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Developer%20%7C%20Google%20Student%20Ambassador%202026&descAlignY=55&descAlign=62&fontColor=4A4A4A&descSize=20" width="100%" alt="Hero Banner" />
 
-<!-- Animated Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C8B6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=💜+Artificial+Intelligence;🤖+Machine+Learning;✨+Generative+AI;💻+Full+Stack+Development;🚀+Problem+Solver" alt="Typing SVG" />
-</p>
+<br>
 
-<!-- Glowing Social Buttons -->
-<p align="center">
-  <a href="https://github.com/suhitad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=FFD6E8&color=FFB6C1" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/suhitad">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C8B6FF&color=FFD6E8" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:suhita@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FFB6C1&color=C8B6FF" alt="Email"/>
-  </a>
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=A078E6&center=true&vCenter=true&width=600&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Full+Stack+Development;Problem+Solver" alt="Typing Animation" />
 
-<!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suhitad&label=Profile%20Views&color=FFB6C1&style=for-the-badge&abbreviated=true" alt="Profile Views"/>
-</p>
+<br><br>
+
+<!-- Social & Contact Buttons -->
+<a href="https://github.com/suhitad"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=4A4A4A" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/suhitad"><img src="https://img.shields.io/badge/LinkedIn-C8B6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br><br>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=suhitad&color=E0B0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
----
+<br>
 
-<!-- About Me Card -->
+## 🌸 About Me
+
+> 🎓 **Electronics & Communication Engineering Student** at **V.S.B Engineering College**  
+> 💖 **Passionate about** Artificial Intelligence, Machine Learning, Generative AI and Full Stack Development.  
+> 🚀 **Building intelligent AI solutions** for Education, Agriculture, Finance and Healthcare.  
+> 🌱 **Currently Learning:** Generative AI, Cloud Computing, React, Machine Learning, System Design
+
+<br>
+
+## 🛠️ Tech Stack
+
 <div align="center">
+  <p><b>Programming</b></p>
+  <img src="https://img.shields.io/badge/Java-FFD6E8?style=for-the-badge&logo=java&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-C8B6FF?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-E0B0FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD6E8?style=for-the-badge&logo=javascript&logoColor=black" />
 
-## 💖 About Me
+  <br><br>
+  <p><b>Frontend & Backend</b></p>
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-C8B6FF?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-E0B0FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-FFD6E8?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFB6C1?style=for-the-badge&logo=firebase&logoColor=white" />
 
-<table>
-<tr>
-<td>
+  <br><br>
+  <p><b>Tools & Databases</b></p>
+  <img src="https://img.shields.io/badge/MySQL-C8B6FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E0B0FF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-FFD6E8?style=for-the-badge&logo=visual-studio-code&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-C8B6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</div>
 
-```yaml
-profile:
-  education: 🎓 Electronics & Communication Engineering Student
-  institution: 🏫 V.S.B Engineering College
-  passion: 💖 AI | ML | Generative AI | Full Stack Development
-  mission: 🚀 Building intelligent AI solutions
-  domains: 
-    - Education
-    - Agriculture
-    - Finance
-    - Healthcare
+<br>
+
+## 🚀 Featured Projects
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 HarvestIQ</h3>
+      <p>AI-powered Smart Agriculture Platform helping farmers with crop recommendations, disease detection, weather forecasting, irrigation planning and farm analytics.</p>
+      <b>Tech:</b> <code>Python</code> <code>Machine Learning</code> <code>Firebase</code> <code>Web</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuroPath AI</h3>
+      <p>AI-Powered Personalized Learning Path Generator creating customized roadmaps, AI career guidance, smart study planning and skill tracking.</p>
+      <b>Tech:</b> <code>Python</code> <code>AI & ML</code> <code>Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ EquipTrack AI</h3>
+      <p>Predictive Maintenance using AI to forecast equipment failures and optimize maintenance schedules.</p>
+      <b>Tech:</b> <code>Python</code> <code>AI</code> <code>Data Science</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ InsureOne AI</h3>
+      <p>AI Insurance Assistant streamlining claims processing and providing personalized policy recommendations.</p>
+      <b>Tech:</b> <code>GenAI</code> <code>Python</code> <code>NLP</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Life Event Advisor</h3>
+      <p>Smart Financial Advisor powered by AI to plan for major life events and track financial goals.</p>
+      <b>Tech:</b> <code>AI</code> <code>React</code> <code>Node.js</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 QuizSense AI</h3>
+      <p>AI Quiz Generator that creates dynamic assessments from uploaded study materials and notes.</p>
+      <b>Tech:</b> <code>NLP</code> <code>Python</code> <code>Firebase</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 Study-Mate AI</h3>
+      <p>AI Study Planner that adapts to your learning pace and optimizes study routines for better retention.</p>
+      <b>Tech:</b> <code>Machine Learning</code> <code>Web</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 AI Data Analyst Agent</h3>
+      <p>Excel AI Analysis Tool automating data cleaning, visualization, and actionable insights generation.</p>
+      <b>Tech:</b> <code>Python</code> <code>Pandas</code> <code>GenAI</code>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 💼 Experience Timeline
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      > 🟢 **Google Student Ambassador** <br><br>
+      > 🟢 **Naukri Student Ambassador** <br><br>
+      > 🟢 **Industrial Engineering Intern** <br>
+      > &nbsp;&nbsp;&nbsp;&nbsp;*Tamil Nadu Newsprint and Papers Limited*
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      > 🟢 **Web Developer Intern** <br>
+      > &nbsp;&nbsp;&nbsp;&nbsp;*CodSoft* <br><br>
+      > 🟢 **Front-End Developer Intern** <br>
+      > &nbsp;&nbsp;&nbsp;&nbsp;*CodeAlpha* <br><br>
+      > 🟢 **Virtual Intern** <br>
+      > &nbsp;&nbsp;&nbsp;&nbsp;*Infosys Springboard*
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🏆 Achievements & Certifications
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 Achievements</h3>
+      <ul>
+        <li><b>Google Student Ambassador</b></li>
+        <li><b>Naukri Student Ambassador</b></li>
+        <li>TCS CodeVita Global Rank <b>15,306</b></li>
+        <li>Paper Presentation <b>Winner</b></li>
+        <li>CGPA: <b>8.06</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📜 Certifications</h3>
+      <ul>
+        <li>Microsoft AI Concepts</li>
+        <li>Cisco IoT</li>
+        <li>NASSCOM Generative AI</li>
+        <li>NPTEL Java</li>
+        <li>Python Programming & UI/UX Design</li>
+        <li>Full Stack Development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhitad&show_icons=true&theme=transparent&title_color=C8B6FF&text_color=7952B3&icon_color=FFB6C1&hide_border=true&bg_color=FFFFFF00" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhitad&theme=transparent&fire=FFB6C1&ring=C8B6FF&currStreakLabel=7952B3&currStreakNum=C8B6FF&sideLabels=7952B3&sideNums=C8B6FF&dates=7952B3&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhitad&layout=compact&theme=transparent&title_color=C8B6FF&text_color=7952B3&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suhitad&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Note: You need to setup a GitHub Action to generate the snake animation. 
+       If you haven't set it up yet, you can comment this block out. -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhitad/suhitad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhitad/suhitad/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suhitad/suhitad/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br><br>
+
+<hr style="border: 1px solid #FFD6E8;">
+
+<div align="center">
+  <br>
+  <i>"Turning innovative ideas into intelligent AI solutions through creativity, technology, and continuous learning."</i>
+  <br><br>
+  <b>Made with ❤️ by Suhita D</b>
+</div>
