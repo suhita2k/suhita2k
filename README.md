@@ -144,7 +144,7 @@ $\color{#F472B6}{\textsf{──────────────────�
     <td width="10%" align="center"><h2>💼</h2></td>
     <td>
       <b>Naukri Student Ambassador</b><br>
-      $\color{#C8B6FF}{\textsf{2025}}$
+      $\color{#C8B6FF}{\textsf{2026}}$
     </td>
   </tr>
   <tr>
