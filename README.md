@@ -195,7 +195,7 @@ open_to:
     <td width="10%" align="center"><h2>💼</h2></td>
     <td>
       <b>Naukri Student Ambassador</b><br>
-      $\color{#C8B6FF}{\textsf{2025}}$
+      $\color{#C8B6FF}{\textsf{2026}}$
     </td>
   </tr>
   <tr>
@@ -203,7 +203,7 @@ open_to:
     <td>
       <b>Industrial Engineering Intern</b><br>
       <i>Tamil Nadu Newsprint and Papers Limited</i><br>
-      $\color{#C8B6FF}{\textsf{2024}}$
+      $\color{#C8B6FF}{\textsf{2026}}$
     </td>
   </tr>
   <tr>
@@ -211,7 +211,7 @@ open_to:
     <td>
       <b>Web Developer Intern</b><br>
       <i>CodSoft</i><br>
-      $\color{#C8B6FF}{\textsf{2024}}$
+      $\color{#C8B6FF}{\textsf{2025}}$
     </td>
   </tr>
   <tr>
@@ -219,7 +219,7 @@ open_to:
     <td>
       <b>Front-End Developer Intern</b><br>
       <i>CodeAlpha</i><br>
-      $\color{#C8B6FF}{\textsf{2024}}$
+      $\color{#C8B6FF}{\textsf{2025}}$
     </td>
   </tr>
   <tr>
@@ -227,7 +227,7 @@ open_to:
     <td>
       <b>Virtual Intern</b><br>
       <i>Infosys Springboard</i><br>
-      $\color{#C8B6FF}{\textsf{2023}}$
+      $\color{#C8B6FF}{\textsf{2025}}$
     </td>
   </tr>
 </table>
