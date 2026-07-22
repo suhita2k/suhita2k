@@ -122,42 +122,59 @@ open_to:
 
 ## 🚀 Featured Projects
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 HarvestIQ</h3>
-      <p>AI-powered Smart Agriculture Platform helping farmers with crop recommendations, disease detection, weather forecasting, irrigation planning and farm analytics.</p>
-      <b>Tech:</b> <code>Python</code> <code>Machine Learning</code> <code>Firebase</code> <code>Web</code>
+      <blockquote>
+        <h3>🌱 HarvestIQ</h3>
+        <b>AI-powered Smart Agriculture Platform</b><br>
+        <sub>Helping farmers with crop recommendations, disease detection, weather forecasting, irrigation planning and farm analytics.</sub><br><br>
+        <kbd>Python</kbd> <kbd>Machine Learning</kbd> <kbd>Firebase</kbd> <kbd>Web</kbd>
+      </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 NeuroPath AI</h3>
-      <p>AI-Powered Personalized Learning Path Generator creating customized roadmaps, AI career guidance, smart study planning and skill tracking.</p>
-      <b>Tech:</b> <code>Python</code> <code>AI & ML</code> <code>Firebase</code>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Life Event Advisor</h3>
-      <p>Smart Financial Advisor powered by AI to plan for major life events and track financial goals.</p>
-      <b>Tech:</b> <code>AI</code> <code>React</code> <code>Node.js</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 QuizSense AI</h3>
-      <p>AI Quiz Generator that creates dynamic assessments from uploaded study materials and notes.</p>
-      <b>Tech:</b> <code>NLP</code> <code>Python</code> <code>Firebase</code>
+      <blockquote>
+        <h3>🧠 NeuroPath AI</h3>
+        <b>Personalized Learning Path Generator</b><br>
+        <sub>Creating customized roadmaps, AI career guidance, smart study planning and skill tracking.</sub><br><br>
+        <kbd>Python</kbd> <kbd>AI & ML</kbd> <kbd>Firebase</kbd>
+      </blockquote>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 Study-Mate AI</h3>
-      <p>AI Study Planner that adapts to your learning pace and optimizes study routines for better retention.</p>
-      <b>Tech:</b> <code>Machine Learning</code> <code>Web</code>
+      <blockquote>
+        <h3>📊 Life Event Advisor</h3>
+        <b>Smart Financial Advisor</b><br>
+        <sub>Powered by AI to plan for major life events and track financial goals.</sub><br><br>
+        <kbd>AI</kbd> <kbd>React</kbd> <kbd>Node.js</kbd>
+      </blockquote>
     </td>
     <td width="50%" valign="top">
-      <h3>📈 AI Data Analyst Agent</h3>
-      <p>Excel AI Analysis Tool automating data cleaning, visualization, and actionable insights generation.</p>
-      <b>Tech:</b> <code>Python</code> <code>Pandas</code> <code>GenAI</code>
+      <blockquote>
+        <h3>📝 QuizSense AI</h3>
+        <b>AI Quiz Generator</b><br>
+        <sub>Creates dynamic assessments from uploaded study materials and notes.</sub><br><br>
+        <kbd>NLP</kbd> <kbd>Python</kbd> <kbd>Firebase</kbd>
+      </blockquote>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>📚 Study-Mate AI</h3>
+        <b>AI Study Planner</b><br>
+        <sub>Adapts to your learning pace and optimizes study routines for better retention.</sub><br><br>
+        <kbd>Machine Learning</kbd> <kbd>Web</kbd>
+      </blockquote>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote>
+        <h3>📈 AI Data Analyst Agent</h3>
+        <b>Excel AI Analysis Tool</b><br>
+        <sub>Automating data cleaning, visualization, and actionable insights generation.</sub><br><br>
+        <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>GenAI</kbd>
+      </blockquote>
     </td>
   </tr>
 </table>
