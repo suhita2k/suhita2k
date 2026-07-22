@@ -1,4 +1,4 @@
-<!-- Replace 'suhitad' with your actual GitHub username throughout the code if different -->
+<!-- Replace 'suhita2k' with your actual GitHub username throughout the code if different -->
 
 <div align="center">
 
@@ -14,14 +14,14 @@ Note: To use your custom uploaded portrait with AI background as requested, uplo
 <br><br>
 
 <!-- Social & Contact Buttons -->
-<a href="https://github.com/suhitad"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=4A4A4A" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/suhitad"><img src="https://img.shields.io/badge/LinkedIn-C8B6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/suhita2k"><img src="https://img.shields.io/badge/GitHub-FFD6E8?style=for-the-badge&logo=github&logoColor=4A4A4A" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/suhita-d-81965336a"><img src="https://img.shields.io/badge/LinkedIn-C8B6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:suhidharma@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br><br>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=suhitad&color=E0B0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=suhita2k&color=E0B0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -178,30 +178,25 @@ Note: To use your custom uploaded portrait with AI background as requested, uplo
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhitad&show_icons=true&theme=transparent&title_color=C8B6FF&text_color=7952B3&icon_color=FFB6C1&hide_border=true&bg_color=FFFFFF00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhitad&theme=transparent&fire=FFB6C1&ring=C8B6FF&currStreakLabel=7952B3&currStreakNum=C8B6FF&sideLabels=7952B3&sideNums=C8B6FF&dates=7952B3&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suhita2k&show_icons=true&theme=transparent&title_color=C8B6FF&text_color=7952B3&icon_color=FFB6C1&hide_border=true&bg_color=FFFFFF00" height="170" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suhita2k&theme=transparent&fire=FFB6C1&ring=C8B6FF&currStreakLabel=7952B3&currStreakNum=C8B6FF&sideLabels=7952B3&sideNums=C8B6FF&dates=7952B3&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhitad&layout=compact&theme=transparent&title_color=C8B6FF&text_color=7952B3&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suhitad&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhita2k&layout=compact&theme=transparent&title_color=C8B6FF&text_color=7952B3&hide_border=true" height="170" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Note: You need to setup a GitHub Action to generate the snake animation. 
-       If you haven't set it up yet, you can comment this block out. -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suhitad/suhitad/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suhitad/suhitad/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suhitad/suhitad/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=suhita2k&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/FFB6C1/suhita2k" alt="GitHub Contribution Graph" width="80%" />
 </div>
 
 <br><br>
