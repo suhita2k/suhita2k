@@ -132,23 +132,51 @@ Note: To use your custom uploaded portrait with AI background as requested, uplo
 
 ## 💼 Experience Timeline
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <br>
-      > 🟢 **Google Student Ambassador** <br><br>
-      > 🟢 **Naukri Student Ambassador** <br><br>
-      > 🟢 **Industrial Engineering Intern** <br>
-      > &nbsp;&nbsp;&nbsp;&nbsp;*Tamil Nadu Newsprint and Papers Limited*
+    <td width="10%" align="center"><h2>🎓</h2></td>
+    <td>
+      <b>Google Student Ambassador</b><br>
+      $\color{#C8B6FF}{\textsf{2026}}$
     </td>
-    <td width="50%" valign="top">
-      <br>
-      > 🟢 **Web Developer Intern** <br>
-      > &nbsp;&nbsp;&nbsp;&nbsp;*CodSoft* <br><br>
-      > 🟢 **Front-End Developer Intern** <br>
-      > &nbsp;&nbsp;&nbsp;&nbsp;*CodeAlpha* <br><br>
-      > 🟢 **Virtual Intern** <br>
-      > &nbsp;&nbsp;&nbsp;&nbsp;*Infosys Springboard*
+  </tr>
+  <tr>
+    <td width="10%" align="center"><h2>💼</h2></td>
+    <td>
+      <b>Naukri Student Ambassador</b><br>
+      $\color{#C8B6FF}{\textsf{2025}}$
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><h2>🏭</h2></td>
+    <td>
+      <b>Industrial Engineering Intern</b><br>
+      <i>Tamil Nadu Newsprint and Papers Limited</i><br>
+      $\color{#C8B6FF}{\textsf{2024}}$
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><h2>💻</h2></td>
+    <td>
+      <b>Web Developer Intern</b><br>
+      <i>CodSoft</i><br>
+      $\color{#C8B6FF}{\textsf{2024}}$
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><h2>🎨</h2></td>
+    <td>
+      <b>Front-End Developer Intern</b><br>
+      <i>CodeAlpha</i><br>
+      $\color{#C8B6FF}{\textsf{2024}}$
+    </td>
+  </tr>
+  <tr>
+    <td width="10%" align="center"><h2>🌐</h2></td>
+    <td>
+      <b>Virtual Intern</b><br>
+      <i>Infosys Springboard</i><br>
+      $\color{#C8B6FF}{\textsf{2023}}$
     </td>
   </tr>
 </table>
